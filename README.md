@@ -6,29 +6,29 @@
 
 ---
 
-## 🚀 Hakkımda
-Merhaba! Ben **Kaan Kılınç**, React ekosisteminde projeler geliştiren, aynı zamanda **Siber Güvenlik** ve **Gömülü Yazılımlar** alanlarında kendini geliştiren bir yazılım mühendisiyim.  
-Yeni teknolojileri öğrenmeyi, deneyler yapmayı ve üretmeyi seviyorum.
+## 🚀 About Me
+Hi! I'm **Kaan Kılınç**, a developer focused on **React**, **Cyber Security**, and **Embedded Systems**.  
+I enjoy learning new technologies, experimenting with ideas, and building practical projects.
 
 ---
 
-## 🛠️ Teknolojiler & Beceriler
+## 🛠️ Skills & Technologies
 
 ### 🌐 Frontend
-- ⚛️ React / React Native  
-- 📱 Expo  
-- 🎨 HTML • CSS • JavaScript • TypeScript  
-- 🔍 Next.js (Semantik arama projeleri)
+- ⚛️ **React / React Native**
+- 📱 Expo
+- 🎨 HTML • CSS • JavaScript • TypeScript
+- 🔍 Next.js (Semantic search-based projects)
 
 ### 💻 Software & Backend
-- 🐍 Python  
-- ➕ C++  
-- 🟦 TypeScript  
-- 🔧 Node.js  
-- 🔐 Siber Güvenlik (temel pentest, analiz)  
-- 🔩 Arduino, ESP32 ve gömülü yazılım çalışmalarım
+- 🐍 **Python**
+- ➕ **C++**
+- 🟦 **TypeScript**
+- 🔧 Node.js
+- 🔐 Basic Cyber Security (pentesting fundamentals)
+- 🔩 Arduino, ESP32, embedded programming
 
-### 🛠️ Araçlar
+### 🔧 Tools & Workflow
 - Git & GitHub  
 - VS Code  
 - Linux (Mint)  
@@ -37,34 +37,28 @@ Yeni teknolojileri öğrenmeyi, deneyler yapmayı ve üretmeyi seviyorum.
 
 ---
 
-## 📈 GitHub İstatistikleri
+## 📦 Programming Languages (Logos)
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaanklnc&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanklnc&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,cpp,python,nodejs,js,html,css,linux,arduino,github,docker" />
 </p>
 
 ---
 
-## 🔥 Şu Anda Üzerinde Çalıştığım Projeler
-- 🤖 React Native **AI Chatbot**  
-- 🔍 Next.js ile **Semantik Arama Motoru**  
-- 📊 GitHub OAuth destekli Dashboard (DevTrack Lite)  
-- 🔌 ESP32 / Arduino mini IoT projeleri  
-- 🛡️ Siber güvenlik için temel analiz & network çalışmaları
+## 🔥 Current Projects
+- 🤖 AI-powered chatbot built with React Native  
+- 🔍 Semantic Search Engine (Next.js)  
+- 📊 GitHub OAuth dashboard & analytics (DevTrack Lite)  
+- 🔌 ESP32 / Arduino IoT mini projects  
+- 🛡️ Cyber security network & web analysis learning path  
 
 ---
 
-## 📫 İletişim
-- 📧 Mail: **kaan.klnc.dev@gmail.com** *(istersen değiştiririm)*  
-- 💼 LinkedIn: *(link verirsen eklerim)*
+## 📫 Contact
+📧 **kaanklncdevelopment@gmail.com**
 
 ---
 
-## 🎯 Kişisel Motto
-> *“Her gün bir önceki günden daha iyi bir geliştirici olmak.”*
-
----
-
-## ⭐ Destek
-Beğendiğin projelere ⭐ bırakman beni çok mutlu eder!
+## 🎯 Personal Motto
+> *"Be better than yesterday — every single day."*
 
