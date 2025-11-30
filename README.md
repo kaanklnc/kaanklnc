@@ -47,8 +47,7 @@ I enjoy learning new technologies, experimenting with ideas, and building practi
 
 ## 🔥 Current Projects
 - 🤖 AI-powered chatbot built with React Native  
-- 🔍 Semantic Search Engine (Next.js)  
-- 📊 GitHub OAuth dashboard & analytics (DevTrack Lite)  
+- 🔍 Semantic Search Engine (Next.js)   
 - 🔌 ESP32 / Arduino IoT mini projects  
 - 🛡️ Cyber security network & web analysis learning path  
 
