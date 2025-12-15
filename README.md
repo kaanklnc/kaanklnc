@@ -1,4 +1,4 @@
-# 💫 Kaan Kılınç — Developer Profile
+# Kaan Kılınç — Developer Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=600&lines=React+Developer;Cyber+Security+Enthusiast;Embedded+Systems+Learner;C%2B%2B+%7C+TypeScript+%7C+Python;Always+learning+new+things!">
@@ -46,10 +46,10 @@ I enjoy learning new technologies, experimenting with ideas, and building practi
 ---
 
 ## 🔥 Current Projects
-- 🤖 AI-powered chatbot built with React Native  
-- 🔍 Semantic Search Engine (Next.js)   
-- 🔌 ESP32 / Arduino IoT mini projects  
-- 🛡️ Cyber security network & web analysis learning path  
+- AI-powered chatbot built with React Native
+- Commercial Website's with Next.js
+- ESP32 / Arduino IoT mini projects  
+- Cyber security network & web analysis learning path  
 
 ---
 
