@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-Hi! I'm **Kaan Kılınç**, a developer focused on **React**, **Cyber Security**, and **Embedded Systems**.  
+Hi! I'm **Kaan Kılınç**, a developer focused on **React** and **Embedded Systems**.  
 I enjoy learning new technologies, experimenting with ideas, and building practical projects.
 
 ---
